@@ -11,3 +11,5 @@ class UsernameInput extends React.Component {
         ) 
     }
 }
+
+export default UsernameInput;

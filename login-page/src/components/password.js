@@ -11,3 +11,5 @@ class PasswordInput extends React.Component {
         ) 
     }
 }
+
+export default PasswordInput;
